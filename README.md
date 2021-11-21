@@ -15,12 +15,12 @@
     <img class = "icons" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">&nbsp;
     <img class = "icons" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">&nbsp;
 </div>
+<h3>🛠My Notion<h3>
+<div>
     <a href="https://www.notion.so/Ko-Dong-Wook-fd2dfd0db84f40cfbaed0c9f6f421592">
         <img class = "icons" src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">&nbsp;
     </a>
 <div>
-    
-</div>
 <style>
     .icons {
         height : auto;
