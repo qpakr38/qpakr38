@@ -1,8 +1,8 @@
 <h1> Ko DongWook</h1>
 <h3>새로운 출발</h3>
-<p class="fontStyle">2017년 ~2021년 중소기업 사업관리파트에서 근무하였습니다.</p>
-<p class="fontStyle">사업관리에 능력적 한계와 프로그램 개발에 대한 열정으로 </p>
-<p class="fontStyle" >2022년 백엔드 개발자를 꿈꾸고 있습니다. </p>
+<p style="font-size: larger;">2017년 ~2021년 중소기업 사업관리파트에서 근무하였습니다.</p>
+<p style="font-size: larger;">사업관리에 능력적 한계와 프로그램 개발에 대한 열정으로 </p>
+<p style="font-size: larger;" >2022년 백엔드 개발자를 꿈꾸고 있습니다. </p>
 
 <h3>🤗목표</h3>
 <p class="fontStyle" >스프링 프레임워크를 기반한 백엔드 개발자가 목표입니다.</p>
@@ -21,9 +21,3 @@
         <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" style="height:auto;margin-left:10px;margin-right:10px;">&nbsp;
     </a>
 <div>
-<style>
-    .fontStyle{
-        font-size: larger;
-    }
-
-</style>
