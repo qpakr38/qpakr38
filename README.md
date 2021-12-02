@@ -1,4 +1,4 @@
-<h1> Ko DongWook</h1>
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Ko%20DongWook)
 <h3>새로운 출발</h3>
 <p style="font-size: larger;">2017년 ~2021년 중소기업 사업관리파트에서 근무하였습니다.</p>
 <p style="font-size: larger;">사업관리에 능력적 한계와 프로그램 개발에 대한 열정으로 </p>
