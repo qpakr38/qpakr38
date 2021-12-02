@@ -21,3 +21,8 @@
         <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" style="height:auto;margin-left:10px;margin-right:10px;">&nbsp;
     </a>
 <div>
+    
+###  🔥 most used language
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qpakr38&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
