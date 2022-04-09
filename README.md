@@ -2,7 +2,7 @@
 <h3>새로운 출발</h3>
 <p style="font-size: larger;">화려하고 눈에 띄는 보컬을  안정적으로 뒷받침하는 드럼 같은 존재가 되고 싶은 백엔드 개발자 고동욱입니다.</p>
 <p style="font-size: larger;">의사소통을 통해 불만 없이 일하고  싶은 불만제로맨 고동욱입니다. </p>
-<p style="font-size: larger;">병역특례 2년, 사업관리 2년 총 4년을 중소기업 ICT 기업에서 근무하였습니다. </p>
+<p style="font-size: larger;">개발과 사업관리 파트를 병행하여 4년을 중소기업 ICT 기업에서 근무하였습니다. </p>
 <p style="font-size: larger;">주로 TCP/IP 소켓 통신, WebSocket 통신 등 통신 프로그램을 주로 개발하였습니다. </p>
 
 <h3>🤗목표</h3>
