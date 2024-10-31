@@ -8,7 +8,7 @@
 <p class="fontStyle" >기술을 통해 혁신적이고 지속 가능한 성장을 이끌어내고, 전략적 비전을 갖춘 리더로서 조직을 이끄는 최고 기술 책임자(CTO)를 목표로 하고 있습니다.</p>
 <h3>🛠사용언어</h3>
 <div>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" style="height:auto;margin-left:10px;margin-right:10px;">&nbsp;
+    <img src="https://img.shields.io/badge/java-007396.svg?style=flat&logo=java&logoColor=white" style="height:auto;margin-left:10px;margin-right:10px;"/>&nbsp;
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" style="height:auto;margin-left:10px;margin-right:10px;">&nbsp;
     <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat&logo=Spring&logoColor=white" style="height:auto;margin-left:10px;margin-right:10px;">&nbsp;
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" style="height:auto;margin-left:10px;margin-right:10px;">&nbsp;
