@@ -8,12 +8,16 @@
 <p class="fontStyle" >기술을 통해 혁신적이고 지속 가능한 성장을 이끌어내고, 전략적 비전을 갖춘 리더로서 조직을 이끄는 최고 기술 책임자(CTO)를 목표로 하고 있습니다.</p>
 <h3>🛠사용언어</h3>
 <div>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" style="height:auto;margin-left:10px;margin-right:10px;">&nbsp;
+    <img src="https://img.shields.io/badge/java-007396.svg?style=flat&logo=java&logoColor=white" style="height:auto;margin-left:10px;margin-right:10px;"/>&nbsp;
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" style="height:auto;margin-left:10px;margin-right:10px;">&nbsp;
     <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat&logo=Spring&logoColor=white" style="height:auto;margin-left:10px;margin-right:10px;">&nbsp;
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" style="height:auto;margin-left:10px;margin-right:10px;">&nbsp;
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" style="height:auto;margin-left:10px;margin-right:10px;">&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" style="height:auto;margin-left:10px;margin-right:10px;">&nbsp;
+    <img src="https://img.shields.io/badge/react-20232a.svg?style=flat&logo=react&logoColor=61DAFB" style="height:auto;margin-left:10px;margin-right:10px;"/>&nbsp;
+    <img src="https://img.shields.io/badge/next.js-000000.svg?style=flat&logo=next.js&logoColor=white" style="height:auto;margin-left:10px;margin-right:10px;"/>&nbsp;    
+    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=flat&logo=docker&logoColor=white" style="height:auto;margin-left:10px;margin-right:10px;"/>&nbsp;
+    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=flat&logo=jenkins&logoColor=white" style="height:auto;margin-left:10px;margin-right:10px;"/>&nbsp;
 </div>
 <h3>🛠My Notion<h3>
 <div>
