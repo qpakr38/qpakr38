@@ -16,6 +16,8 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" style="height:auto;margin-left:10px;margin-right:10px;">&nbsp;
     <img src="https://img.shields.io/badge/react-20232a.svg?style=flat&logo=react&logoColor=61DAFB" style="height:auto;margin-left:10px;margin-right:10px;"/>&nbsp;
     <img src="https://img.shields.io/badge/next.js-000000.svg?style=flat&logo=next.js&logoColor=white" style="height:auto;margin-left:10px;margin-right:10px;"/>&nbsp;    
+    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=flat&logo=docker&logoColor=white" style="height:auto;margin-left:10px;margin-right:10px;"/>&nbsp;
+    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=flat&logo=jenkins&logoColor=white" style="height:auto;margin-left:10px;margin-right:10px;"/>&nbsp;
 </div>
 <h3>🛠My Notion<h3>
 <div>
