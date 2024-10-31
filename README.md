@@ -2,11 +2,10 @@
 <h3>새로운 출발</h3>
 <p style="font-size: larger;">화려하고 눈에 띄는 보컬을  안정적으로 뒷받침하는 드럼 같은 존재가 되고 싶은 백엔드 개발자 고동욱입니다.</p>
 <p style="font-size: larger;">의사소통을 통해 불만 없이 일하고  싶은 불만제로맨 고동욱입니다. </p>
-<p style="font-size: larger;">개발과 사업관리 파트를 병행하여 4년을 중소기업 ICT 기업에서 근무하였습니다. </p>
-<p style="font-size: larger;">주로 TCP/IP 소켓 통신, WebSocket 통신 등 통신 프로그램을 주로 개발하였습니다. </p>
+<p style="font-size: larger;">자바를 활용한 Web Back-End 개발을 주로 하였고 jsp,Nextjs를 활용한 Web Fron-End 또한 가능합니다. </p>
 
 <h3>🤗목표</h3>
-<p class="fontStyle" >스프링 프레임워크를 기반한 백엔드 개발자가 목표입니다.</p>
+<p class="fontStyle" >기술을 통해 혁신적이고 지속 가능한 성장을 이끌어내고, 전략적 비전을 갖춘 리더로서 조직을 이끄는 최고 기술 책임자(CTO)를 목표로 하고 있습니다.</p>
 <h3>🛠사용언어</h3>
 <div>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" style="height:auto;margin-left:10px;margin-right:10px;">&nbsp;
